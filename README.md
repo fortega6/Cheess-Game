@@ -15,6 +15,9 @@ For AI, the Minimax algorithm will be used. The Minimax algorithm is mostly the 
 
 The executable for the program will be named “𝑐ℎ𝑒𝑠𝑠𝑝𝑟𝑜𝑔”. The graphical mode is specified
 as a command line argument:
+
 ./chessprog -c – will start the program in console mode.
+
 ./ chessprog -g – will start the program in GUI mode.
+
 ./ chessprog – will execute the program; with the default execution mode - console
