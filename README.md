@@ -11,7 +11,19 @@ computer.
 
 For AI, the Minimax algorithm will be used. The Minimax algorithm is mostly the same as the but I use pruning to improve its efficiency.
 
-![](Screenshots/Chess_1.PNG)
+![Main Menu](Screenshots/Chess_1.PNG)
+
+![](Screenshots/Chess_2.PNG)
+
+![](Screenshots/Chess_3.PNG)
+
+![](Screenshots/Chess_4.PNG)
+
+![](Screenshots/Chess_5.PNG)
+
+![](Screenshots/Chess_6.PNG)
+
+![](Screenshots/Chess_7.PNG)
 
 The executable for the program will be named “𝑐ℎ𝑒𝑠𝑠𝑝𝑟𝑜𝑔”. The graphical mode is specified
 as a command line argument:
