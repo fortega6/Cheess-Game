@@ -11,7 +11,9 @@ computer.
 
 For AI, the Minimax algorithm will be used. The Minimax algorithm is mostly the same as the but I use pruning to improve its efficiency.
 
-![Main Menu](Screenshots/Chess_1.PNG)
+https://drive.google.com/file/d/1rkR0snR6qfj0OzUsO6pW5POF3OWCU125/view?usp=sharing
+
+![](Screenshots/Chess_1.PNG)
 
 ![](Screenshots/Chess_2.PNG)
 
