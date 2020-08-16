@@ -1,0 +1,57 @@
+﻿  GraphicalMode.c
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\graphicalmode.c(1): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.c
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\main.c(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SPChess.c
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1986): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1986): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1986): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1986): note: this argument is used as a buffer size
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1988): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1988): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1988): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1988): note: this argument is used as a buffer size
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): warning C4477: 'fscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 2 has type 'char *'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): note: this argument is used as a buffer size
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): warning C4477: 'fscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 4 has type 'char *'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): note: this argument is used as a buffer size
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): warning C4477: 'fscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 6 has type 'char *'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): note: this argument is used as a buffer size
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): warning C4477: 'fscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 8 has type 'char *'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): note: this argument is used as a buffer size
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): warning C4477: 'fscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 10 has type 'char *'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): note: this argument is used as a buffer size
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): note: placeholders and their parameters expect 20 variadic arguments, but 10 were provided
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): note: the missing variadic argument 11 is required by format string '%c'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(1999): note: this argument is used by a conversion specifier
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2010): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2010): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2010): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2010): note: this argument is used as a buffer size
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2011): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2011): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2011): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2011): note: this argument is used as a buffer size
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2013): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2013): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2013): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2013): note: this argument is used as a buffer size
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2014): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2014): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2014): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchess.c(2014): note: this argument is used as a buffer size
+  SPChessColorWin.c
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchesscolorwin.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SPChessDiffWin.c
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchessdiffwin.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SPChessGameModeWin.c
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchessgamemodewin.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SPChessGameWin.c
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchessgamewin.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SPChessGUIManager.c
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchessguimanager.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SPChessMainWin.c
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchessmainwin.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SPChessSlotWin.c
+c:\users\fran_\source\repos\chessgameproject\chessgameproject\spchessslotwin.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory

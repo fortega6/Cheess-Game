@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+<current_turn>1</current_turn>
+<game_mode>1</game_mode >
+<difficulty>2</difficulty>
+<user_color>1</user_color>
+<board>
+<row_8>R_BQKBNR</row_8>
+<row_7>PPPPPPPP</row_7>
+<row_6>__N_____</row_6>
+<row_5>________</row_5>
+<row_4>________</row_4>
+<row_3>ppppp___</row_3>
+<row_2>_____ppp</row_2>
+<row_1>rnbqkbnr</row_1>
+</board>
+<general>
+<player_undos>3</player_undos>
+<player_undos>3</player_undos>
+<move>
+<player_history>(6,2) to (5,2)</player_history>
+<piece_o>p</piece_o>
+<piece_d>_</piece_d>
+<ia_history>(0,1) to (0,0)</ia_history>
+<piece_o>R</piece_o>
+<piece_d>_</piece_d>
+</move>
+<move>
+<player_history>(6,3) to (5,3)</player_history>
+<piece_o>p</piece_o>
+<piece_d>_</piece_d>
+<ia_history>(0,0) to (0,1)</ia_history>
+<piece_o>R</piece_o>
+<piece_d>_</piece_d>
+</move>
+<move>
+<player_history>(6,4) to (5,4)</player_history>
+<piece_o>p</piece_o>
+<piece_d>_</piece_d>
+<ia_history>(0,1) to (0,0)</ia_history>
+<piece_o>R</piece_o>
+<piece_d>_</piece_d>
+</move>
+<check>4</check>
+<checkmate>5</checkmate>
+</general>
+</game>

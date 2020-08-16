@@ -1,0 +1,39 @@
+﻿  GraphicalMode.c
+  main.c
+  SPChess.c
+c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(1986): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(1986): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(1986): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(1986): note: this argument is used as a buffer size
+c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(1988): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(1988): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(1988): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(1988): note: this argument is used as a buffer size
+c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2011): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2011): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2011): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2011): note: this argument is used as a buffer size
+c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2012): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2012): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2012): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2012): note: this argument is used as a buffer size
+c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2014): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2014): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2014): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2014): note: this argument is used as a buffer size
+c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2015): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2015): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2015): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchess.c(2015): note: this argument is used as a buffer size
+  SPChessColorWin.c
+  SPChessDiffWin.c
+  SPChessGameModeWin.c
+  SPChessGameWin.c
+c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchessgamewin.c(79): warning C4101: 'err': unreferenced local variable
+c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\spchessgamewin.c(78): warning C4101: 'fp': unreferenced local variable
+  SPChessGUIManager.c
+  SPChessMainWin.c
+  SPChessSlotWin.c
+  Generating Code...
+c:\users\fran_\documents\cheess-game\chessgameproject-windows-version\graphicalmode.c(28): warning C4715: 'graphicalModeMain': not all control paths return a value
+  ChessGameProject.vcxproj -> C:\Users\fran_\Documents\Cheess-Game\ChessGameProject-Windows-Version\Debug\ChessGameProject.exe
